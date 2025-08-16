@@ -2,6 +2,6 @@ import React from 'react'
 
 export default function Header() {
   return (
-    <div>sadsad</div>
+    <div style={{fontSize: '122px'}}>Choose your favorite color: </div>
   )
 }
